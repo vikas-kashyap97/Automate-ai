@@ -1,0 +1,1 @@
+"pip install crewai crewai-tools langchain-openai langchain-community openai python-dotenv streamlit python-docx pygame"
