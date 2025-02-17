@@ -10,7 +10,7 @@ The AI Agents Project is a comprehensive suite of intelligent agents designed to
 - **Thinking Agent**: Provides cognitive analysis and decision-making capabilities
 - **Document Processing**: Includes utilities for DOCX file handling
 - **Teleprompter**: Modern teleprompter application for content presentation
-- **Game Integration**: Includes a Flappy Bird game implementation
+
 
 ## Installation
 
@@ -64,11 +64,6 @@ python agents/thinking/streamlit-based.py
 python teleprompter.py
 ```
 
-### Playing Flappy Bird
-
-```bash
-python flappy_bird.py
-```
 
 ## Project Structure
 
@@ -80,9 +75,6 @@ ai-agents/
 │   ├── social_media/     # Social media management agent
 │   └── thinking/         # Cognitive thinking agents
 ├── db/                   # Database files
-├── bg.avif               # Background image
-├── bird.jpg              # Game assets
-├── pipe.jpg              # Game assets
 ├── requirements.txt     # Python dependencies
 ├── README.md             # Project documentation
 └── ...                   # Other project files
