@@ -93,6 +93,6 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-Project Maintainer - [Your Name]  
-Email - your.email@example.com  
+Project Maintainer - [Vikas Kashyap]  
+Email - vikaskashyaprock@gmail.com  
 Project Link: [link](https://github.com/vikas-kashyap97/Automate-ai.git)
