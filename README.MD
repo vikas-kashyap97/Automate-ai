@@ -16,7 +16,7 @@ The AI Agents Project is a comprehensive suite of intelligent agents designed to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-agents.git
+   git clone https://github.com/vikas-kashyap97/Automate-ai.git
    cd ai-agents
    ```
 
